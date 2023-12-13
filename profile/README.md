@@ -78,7 +78,7 @@ https://www.petgoorm.life
 ![펫구름 drawio](https://github.com/PetGoorm/petgoorm-before-/assets/113974911/1d2dfd31-cb11-42cd-b3ee-7c635ece4fa5)
 
 # 프로젝트 참여 인원
-| ![민서.png](https://user-images.githubusercontent.com/113974911/235330802-9921b31e-01b7-40ae-86b9-1242e01b297c.png?width=500) | ![영서](https://github.com/PetGoorm/frontend/assets/113974911/1ead3483-cd7e-440b-b36d-1e2fd8d2c1d6?width=500)  | ![주형](https://github.com/PetGoorm/frontend/assets/113974911/702423d4-33b8-420e-94f1-e2d5df497109.png?width=500) |
+|<img src="https://github.com/PetGoorm/.github/assets/54580802/47047ac2-19c3-43ab-b086-9314172c9766" width="230" height="230"/>|<img src="https://github.com/PetGoorm/frontend/assets/113974911/1ead3483-cd7e-440b-b36d-1e2fd8d2c1d6" width="200" height="200"/> |<img src="https://github.com/PetGoorm/frontend/assets/113974911/702423d4-33b8-420e-94f1-e2d5df497109.png" width="250" height="250"/> |
 | :---: | :---: | :---: |
 | [오민서](https://github.com/dongkiid) | [백영서](https://github.com/Baekys97) | [이주형](https://github.com/jooh9992) |
 | 지역 기반 게시판(Frontend, Backend), 서브모듈, CI&CD | 회원, 인증/인가, 마이 페이지 & 펫 페이지, 댓글 (Frontend, Backend), CI&CD| 캘린더, Todo, 반려일지 (Frontend, Backend), CI&CD
